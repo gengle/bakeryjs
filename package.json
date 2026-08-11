@@ -24,10 +24,10 @@
   "devDependencies": {
     "atob": "2.1.2",
     "btoa": "1.2.1",
-    "eslint": "7.12.1",
+    "eslint": "10.8.1",
     "jsdoc-to-markdown": "6.0.1",
-    "rewire": "5.0.0",
+    "rewire": "9.0.1",
     "sinon": "9.2.1",
-    "tap": "14.10.8"
+    "tap": "21.7.5"
   }
 }
